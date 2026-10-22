@@ -1,6 +1,6 @@
 # 校招日程管家 · Campus Recruit Planner
 
-（使用Deepseek Harness与Deepseek V4.1 Flash辅助完成）
+（使用Deepseek Harness与Deepseek V4.1 Flash辅助完成，Markdown文档内容大部分也是鲸鱼生成的）
 
 > 单文件、纯本地的校招投递追踪工具。把「投了哪些公司、走到哪一步、什么时候要做什么」三件事装进一个 HTML 页面，数据全部存在你自己的文件里。
 
